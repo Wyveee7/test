@@ -17,4 +17,3 @@
             file_name="quadro_aco.xlsx",
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
-st.download_button("📥 Baixar CSV", data=csv, file_name="quadro_aco.csv", mime="text/csv")
